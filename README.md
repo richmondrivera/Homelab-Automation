@@ -39,7 +39,7 @@ homelab-automation/
 
 You need a control machine with Ansible installed and SSH access to the servers you want to manage.
 
-git clone https://github.com/<your-username>/homelab-automation.git
+git clone https://github.com/richmondrivera/homelab-automation.git
 cd homelab-automation/ansible
 
 # check that Ansible can reach everything
